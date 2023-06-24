@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Wisniewski 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-wisniewski-050006179/) [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavogomesw/?hl=pt-br)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-wisniewski-050006179/) 
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoWisniewski&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWisniewski&layout=compact)
