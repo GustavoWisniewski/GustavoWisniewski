@@ -20,4 +20,4 @@
     
 </div><br/>
 
-Estou me formando na Kenzie Academy após concluir um curso de Desenvolvimento Full Stack de 2.000 horas. Aprendi tecnologias Front End e Back End, incluindo HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django e Flask) e SQL. Além disso, desenvolvi soft skills importantes para o mercado de trabalho. Estou entusiasmado(a) com as oportunidades que essa formação me proporcionará e confiante em minha capacidade de contribuir para projetos web modernos e robustos.
+Estou me formando na Kenzie Academy após concluir um curso de Desenvolvimento Full Stack de 2.000 horas. Aprendi tecnologias Front End e Back End, incluindo HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django) e SQL. Além disso, desenvolvi soft skills importantes para o mercado de trabalho. Estou entusiasmado(a) com as oportunidades que essa formação me proporcionará e confiante em minha capacidade de contribuir para projetos web modernos e robustos.
