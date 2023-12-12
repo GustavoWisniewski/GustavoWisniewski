@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Wisniewski 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-wisniewski-050006179/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-wisniewski-050006179/)
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoWisniewski&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWisniewski&layout=compact)
@@ -21,3 +21,4 @@
 </div><br/>
 
 Estou me formando na Kenzie Academy após concluir um curso de Desenvolvimento Full Stack de 2.000 horas. Aprendi tecnologias Front End e Back End, incluindo HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django) e SQL. Além disso, desenvolvi soft skills importantes para o mercado de trabalho. Estou entusiasmado(a) com as oportunidades que essa formação me proporcionará e confiante em minha capacidade de contribuir para projetos web modernos e robustos.
+Atualmente estudante de Engenharia Eletrônica na Universidade Tecnológica Federal do Paraná.
